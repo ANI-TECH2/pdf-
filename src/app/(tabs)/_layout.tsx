@@ -1,7 +1,7 @@
-import { ResultModal } from "@/component/ResultModal"
 import { Tabs } from "expo-router"
-import { Platform, StyleSheet, Text, View } from "react-native"
+import { View, Text, StyleSheet, Platform } from "react-native"
 import { useSafeAreaInsets } from "react-native-safe-area-context"
+import { ResultModal } from "@/component/ResultModal"
 
 const TAB_BAR_HEIGHT = 56
 

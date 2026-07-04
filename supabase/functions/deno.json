@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@supabase/functions-js": "jsr:@supabase/functions-js",
+    "@azure/ai-form-recognizer": "npm:@azure/ai-form-recognizer@5"
+  }
+}
